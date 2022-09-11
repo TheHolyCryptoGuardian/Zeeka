@@ -16,7 +16,7 @@ Initialize node — `bazuka init --seed [your seed phrase] --network debug --nod
 
 **IMPORTANT**
 
-Change *your seed phrase* to your new wallet that you should create specially for Zeeka. Just create a new wallet in Metamask (for example) and past the seed phrase to the command in ''. Example `bazuka init --seed 'avtogen is the best crypto user ever for sure i promise you' --network debug --node 127.0.0.1:8765`
+Change *your seed phrase* to your new wallet that you should create specially for Zeeka. Just create a new wallet in Metamask (for example) and past the seed phrase to the command in ''. Example `bazuka init --seed 'the holy crypto guardian is the best crypto user ever for sure' --network debug --node 127.0.0.1:8765`
 
 Create a system file and don't forget to change [your ip] to your ip — 
 
